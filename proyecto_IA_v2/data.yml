@@ -1,7 +1,8 @@
 train: /content/proyecto_IA_v2/train/images
 val: /content/proyecto_IA_v2/val/images
+test: /content/proyecto_IA_v2/test/images
 
-nc: 15 # número de clases
+nc: 15 
 names: ['cordal', 'apinamiento', 'diente_rotado', 'diastema', 'zona_dentula', 'tratamiento_conducto', 'fractura', 'caries', 
         'enanismo_radicular', 'diente_retenido', 'resto_radicular', 'dientes_sanos', 'enanismo_denticular', 'enanismo_radicular',
         'diente_supernumerario']
